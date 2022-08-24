@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi 👋! My name is Mauricio and I'm a Full Stack Developer in training, focusing on mobile, from Parnaíba, Piauí, Brasil</p>
+<p align="left">Hi 👋! My name is Mauricio and I'm a Full Stack Developer in training, focusing on mobile, from Parnaíba, Piauí, Brazil</p>
 
 ###
 

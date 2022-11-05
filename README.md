@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2001-06-02<br>📚 I'm currently learning Node JS<br>🎯 Goals: Mobile Development<br>🎲 Fun fact: I started with Mysql</p>
+<p align="left">✨ Creating bugs since 2001-06-02<br>📚 I'm currently learning Node JS<br>🎯 Goals: Backend Development<br>🎲 Fun fact: I started with Mysql</p>
 
 ###
 

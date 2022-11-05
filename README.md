@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi 👋! My name is Mauricio and I'm a Full Stack Developer in training, focusing on mobile, from Parnaíba, Piauí, Brazil</p>
+<p align="left">Hi 👋! My name is Mauricio and I'm a Full Stack Developer in training, from Parnaíba, Piauí, Brazil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2001-06-02<br>📚 I'm currently learning React JS<br>🎯 Goals: Mobile Development<br>🎲 Fun fact: I started with Mysql</p>
+<p align="left">✨ Creating bugs since 2001-06-02<br>📚 I'm currently learning Node JS<br>🎯 Goals: Mobile Development<br>🎲 Fun fact: I started with Mysql</p>
 
 ###
 

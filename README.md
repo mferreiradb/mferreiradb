@@ -50,7 +50,7 @@
   <img src="./assets/icons8-tailwind-css.svg" height="40" width="52" title="Tailwind CSS" alt="tailwindcss logo"  />
 </div>
 
-###
+<!-- ###
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -60,4 +60,4 @@
   <img src="https://streak-stats.demolab.com?user=mferreiradb&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+### -->

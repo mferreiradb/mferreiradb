@@ -47,7 +47,7 @@
   <img height="40" alt="docker" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="docker logo">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" title="React" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" title="VueJs" alt="vuejs logo"  />
-  <img src="./assets/nuxt-icon-js.svg" height="40" width="52" title="NuxtJs" alt="nuxt logo"  />
+  <img src="./assets/nuxt-icon.svg" height="40" width="52" title="NuxtJs" alt="nuxt logo"  />
   <img src="./assets/icons8-tailwind-css.svg" height="40" width="52" title="Tailwind CSS" alt="tailwindcss logo"  />
   <img height="40" alt="Vitest" width="40" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" title="Vitest" alt="vitest logo">
   <img height="40" alt="cypress" width="80" src="https://github.com/cypress-io/cypress/blob/develop/assets/cypress-logo-dark.png" title="Cypress" alt="cypress logo">

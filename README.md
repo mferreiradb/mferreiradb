@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently Java and Spring<br>🎯 Goals: Backend Development<br>🎲 Fun fact: I started with Mysql</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java and Spring<br>🎯 Goals: Backend Development<br>🎲 Fun fact: I started with Mysql</p>
 
 ###
 

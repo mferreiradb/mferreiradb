@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" title="Javascript" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" title="Typescript" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" title="NodeJs" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" title="NestJs" alt="nestjs logo"  />
+  <img src="https://nestjs.com/img/logo-small.svg" height="40" width="52" title="NestJs" alt="nestjs logo"  />
   <img src="./assets/icons8-express-js.svg" height="40" width="52" title="Express" alt="express logo"  />
   <img src="./assets/fastify.png" height="40" width="52" title="Fastify" alt="fastify logo"  />
   <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-IndigoSymbol.svg" height="40" width="52" title="Prisma ORM" alt="prismaio logo" />

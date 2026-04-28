@@ -35,8 +35,6 @@
 
 ###
 
-### 🛠 Language and tools
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" title="Javascript" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" title="Typescript" alt="typescript logo" />
